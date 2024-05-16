@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jash Mehta</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [PlaceX](https://github.com/Jashhmehta/PlaceX-Placement-Management-System)
+- 🔭 I’m currently working on [Pingme](https://github.com/Jashhmehta/Pingme)
 
 - 🌱 I’m currently learning **MERN Stack,Spring Boot and Next Js**
 

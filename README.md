@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pingme](https://github.com/Jashhmehta/Pingme)
 
-- 🌱 I’m currently learning **MERN Stack,Spring Boot and Next Js**
+- 🌱 I’m currently learning **MERN Stack, and Spring Boot**
 
 - 📫 How to reach me **jashmehtaa@gmail.com**
 

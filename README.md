@@ -2,13 +2,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jashhmehta/count.svg?"  />
-</div>
 
 ###
 
-<h4 align="center">A passionate full stack developer</h4>
+<h2 align="center">A passionate full stack developer</h2>
 
 ###
 

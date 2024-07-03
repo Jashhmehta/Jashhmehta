@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Jashhmehta/count.svg?"  />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashhmehta&show_icons=true&locale=en" alt="jashhmehta" /></p>
 </div>
 
 ###
